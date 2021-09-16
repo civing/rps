@@ -2,5 +2,5 @@
 Rock paper scissors
 
 # running
-cd rps
-./gradlew bootRun
+    cd rps
+    ./gradlew bootRun
